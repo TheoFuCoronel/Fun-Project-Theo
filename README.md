@@ -1,4 +1,15 @@
-
+**Blackjack (but not really) - By Theo Coronel**.
+**How To play**.
+Objective: Get as close to 11 as possible without exceeding.
+Closest Player earns a point.
+First to 3 points wins.
+**Controls**.
+Press Button A to generate a number(1-5) for Player 1.
+Press again to add an additional number(1-5).
+After player 1 is content with their number, Player 2 does the same with Button B.
+After both Players are content with their number or their number exceeds 11, press the Logo Button to finish off the turn.
+Do this untill a player reaches 3 points.
+Shaking will show how many points a player has.
 > Open this page at [https://theofucoronel.github.io/fun-project-theo/](https://theofucoronel.github.io/fun-project-theo/)
 
 ## Use as Extension
